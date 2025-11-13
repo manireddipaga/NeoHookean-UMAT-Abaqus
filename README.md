@@ -16,6 +16,7 @@ This repository provides a clean, beginner-friendly demonstration of how to impl
 This project is designed for students, researchers, and beginners learning constitutive modelling and UMAT development.
 
 ## 📂 Repository Structure
+```
 NeoHookean-UMAT-Abaqus/
 │
 ├── umat/
@@ -37,5 +38,7 @@ NeoHookean-UMAT-Abaqus/
 │   └── theory.md                      ← Optional theory notes (WIP)
 │
 └── README.md
+```
+
 
 
